@@ -1,6 +1,8 @@
 # Discrete_Choice_Modelling_Using_MNL
 
 ABSTRACT  
+
+
 This project focuses on discrete choice modelling using the Swissmetro dataset with 
 Biogeme and extends to an itinerary choice dataset using the Larch library. The primary 
 objective is to several factors on travel mode choices. The methodology involves 
